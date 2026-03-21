@@ -18,3 +18,16 @@ This project analyzes Netflix data using Python and Streamlit.
 
 ## ▶️ How to Run
 streamlit run app.py
+## 📸 Screenshots
+
+### 🎬 Dashboard
+![Dashboard](PASTE_DASHBOARD_LINK)
+
+### 📊 Pie Chart
+![Pie](PASTE_PIE_LINK)
+
+### 📈 Growth Trend
+![Growth](PASTE_GROWTH_LINK)
+
+### 🔍 Filter Feature
+![Filter](PASTE_FILTER_LINK)
