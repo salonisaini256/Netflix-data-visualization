@@ -26,8 +26,8 @@ streamlit run app.py
 ### 📊 Pie Chart
 ![Pie](https://github.com/salonisaini256/Netflix-Data-Visualization/blob/main/pie.png)
 
-### 📈 Growth Trend
-![Growth](PASTE_GROWTH_LINK)
+### 📈 Growth chart
+![Growth](https://github.com/salonisaini256/Netflix-Data-Visualization/blob/main/chart.png)
 
 ### 🔍 Filter Feature
 ![Filter](PASTE_FILTER_LINK)
