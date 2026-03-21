@@ -29,5 +29,5 @@ streamlit run app.py
 ### 📈 Growth chart
 ![Growth](https://github.com/salonisaini256/Netflix-Data-Visualization/blob/main/chart.png)
 
-### 🔍 Filter Feature
-![Filter](PASTE_FILTER_LINK)
+### 🔍 Filter Trend
+![Filter](https://github.com/salonisaini256/Netflix-Data-Visualization/blob/main/Trends.png)
