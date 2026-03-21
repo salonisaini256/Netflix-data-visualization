@@ -21,7 +21,7 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### 🎬 Dashboard
-![Dashboard](PASTE_DASHBOARD_LINK)
+![Dashboard](https://github.com/salonisaini256/Netflix-Data-Visualization/blob/main/Dashboard%20.png)
 
 ### 📊 Pie Chart
 ![Pie](PASTE_PIE_LINK)
