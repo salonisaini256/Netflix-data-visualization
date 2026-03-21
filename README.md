@@ -24,7 +24,7 @@ streamlit run app.py
 ![Dashboard](https://github.com/salonisaini256/Netflix-Data-Visualization/blob/main/Dashboard%20.png)
 
 ### 📊 Pie Chart
-![Pie](PASTE_PIE_LINK)
+![Pie](https://github.com/salonisaini256/Netflix-Data-Visualization/blob/main/pie.png)
 
 ### 📈 Growth Trend
 ![Growth](PASTE_GROWTH_LINK)
